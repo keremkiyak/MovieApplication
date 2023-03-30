@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  MovieApp
+//  MovieApp kerem
 //
 //  Created by kerem on 30.03.2023.
 //
